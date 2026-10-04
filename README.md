@@ -4,6 +4,12 @@
 
 This project provides a graphical user interface (GUI) for visualizing the operations of an AVL tree, a self-balancing binary search tree. The AVL tree ensures that the tree remains balanced after insertions by performing necessary rotations. The GUI allows users to observe the step-by-step insertion process, including the balancing rotations, and displays the tree structure along with traversal results.
 
+## Demo
+
+<video src="https://github.com/user-attachments/assets/01ab61a0-5238-4b99-a4ed-1e7d2a383fa8" controls width="720">
+  Your browser does not support inline video.
+</video>
+
 ## Features
 
 - **Interactive Visualization**: Visualize the AVL tree structure with nodes, edges, and balance factors.
